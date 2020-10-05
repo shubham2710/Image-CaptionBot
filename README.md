@@ -5,7 +5,7 @@
       2. Prepare Photo Data
       3. Prepare Text Data
       4. Develop Deep Learning Model
-      5. Train With Progressive Loading (NEW)       
+      5. Train the Model      
       6. Evaluate Model
       7. Generate New Captions
 
